@@ -1,5 +1,5 @@
 
- <img src="https://github.com/user-attachments/assets/335e77a3-ba82-44b2-8745-432c416c9c7e" width="350" title="mantis" align=right >
+ <!--<img src="https://github.com/user-attachments/assets/335e77a3-ba82-44b2-8745-432c416c9c7e" width="350" title="mantis" align=right >-->
  
 <h2><code>~$whoami</code></h2>
 
