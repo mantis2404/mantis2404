@@ -25,7 +25,7 @@ Profile
       </div>
     </div> -->
     
-   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=22&duration=1500&pause=400&background=000000DB&color=37C414&multiline=true&width=1000&height=450&lines=~%24+whoami;C1ph3r-Sp10it;+;~%24+echo+%22profile%22;Profile;%3E+Name+++++%3A+Naitik+Singhal;%3E+Status+++%3A+UG+student%2C+IIT+Guwahati;%3E+Interest+%3A+AI%2FML+%C2%B7+Cybersecurity+%C2%B7+Computer+Networks;%3E+Focus++++%3A+Backend+Architecture+%C2%B7+Penetration+Testing+%C2%B7+Pipeline+Automation;%3E+Contact++%3A+sploitcipher@gmail.com;~%24+_;~%24+_;~%24+_;" width="100%" />
+   <img src="https://readme-typing-svg.demolab.com?font=monospace&size=22&duration=1500&pause=400&background=000000DB&color=37C414&multiline=true&width=1000&height=450&lines=~%24+whoami;C1ph3r-Sp10it;+;~%24+echo+%22profile%22;Profile;%3E+Name+++++%3A+Naitik+Singhal;%3E+Status+++%3A+UG+student%2C+IIT+Guwahati;%3E+Interest+%3A+AI%2FML+%C2%B7+Cybersecurity+%C2%B7+Computer+Networks;%3E+Focus++++%3A+Penetration+Testing+%C2%B7+Low+Level+Programming;%3E+Contact++%3A+sploitcipher@gmail.com;~%24+_;~%24+_;~%24+_;" width="100%" />
   </div>
 </div>
 <!--
